@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625505198755",
+    "project_id": "neuronest-adfd9",
+    "storage_bucket": "neuronest-adfd9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625505198755:android:cf9ac12bac5f63fe789516",
+        "android_client_info": {
+          "package_name": "com.example.neuro_nest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMpcmFxODKehoYRGflIEzut973smgHOmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
