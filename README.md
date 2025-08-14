@@ -119,6 +119,4 @@ NeuroNest integrates elements from clinically validated tasks such as:
 
 ---
 
-If you want, I can also create a **shorter, professional GitHub README version** with emojis, quick install instructions, and screenshots section so it’s more attractive for developers. This one is already research-oriented for papers and documentation.
 
-Do you want me to prepare that developer-focused one too?
